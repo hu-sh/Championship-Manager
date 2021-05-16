@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * Classe rappresentante una partita.
  * 
- * @author Davide Petillo, Cristian Pratesi
+ * @author Davide Petillo
  */
 public class Partita implements Serializable{
     int giornata;
