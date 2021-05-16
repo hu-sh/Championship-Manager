@@ -15,7 +15,7 @@ import javax.swing.JLabel;
 /**
  * Classe per la creazione del JPanel per il menu principale
  * 
- * @author Davide Petillo, Cristian Pratesi
+ * @author Davide Petillo
  */
 public class MenuPanel extends BasePanel implements ActionListener{
     
