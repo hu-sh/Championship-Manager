@@ -23,7 +23,7 @@ import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
 /**
  * Classe JFrame che gestisce l'intera interfaccia grafica.
  * 
- * @author Davide Petillo, Cristian Pratesi
+ * @author Davide Petillo
  */
 public class GUI extends JFrame implements ActionListener {
 
