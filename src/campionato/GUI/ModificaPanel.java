@@ -26,7 +26,7 @@ import javax.swing.JTextField;
 /**
  * Classe utilizzata per mostrare il pannello che permette di modificare una partita.
  * 
- * @author Davide Petillo, Cristian Pratesi
+ * @author Davide Petillo
  */
 public class ModificaPanel extends BasePanel implements ActionListener, KeyListener{
     
