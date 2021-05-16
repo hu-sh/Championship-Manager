@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 /**
  * Classe per mostrare a video le informazioni relative a una squadra.
  * 
- * @author Davide Petillo, Cristian Pratesi
+ * @author Davide Petillo
  */
 public class SquadraPanel extends BasePanel implements ActionListener{
     Squadra s;
