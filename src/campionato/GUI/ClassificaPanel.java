@@ -22,7 +22,7 @@ import javax.swing.table.DefaultTableCellRenderer;
 /**
  * Classe adibita alla creazione del JPanel per la visualizzazione della classifica.
  * 
- * @author Davide Petillo, Cristian Pratesi
+ * @author Davide Petillo
  */
 public class ClassificaPanel extends BasePanel implements ActionListener, MouseListener{ 
     
