@@ -3,7 +3,7 @@ package campionato;
 /**
  * Eccezione lanciata se una partita non viene trovata.
  * 
- * @author Davide Petillo, Cristian Pratesi
+ * @author Davide Petillo
  */
 public class PartitaNonTrovataException extends Exception {
 
