@@ -9,7 +9,7 @@ import javax.swing.JPanel;
 /**
  * Classe astratta base per tutti i pannelli utilizzati.
  * 
- * @author Davide Petillo, Cristian Pratesi
+ * @author Davide Petillo
  */
 abstract public class BasePanel extends JPanel {
     public Dimension size;
