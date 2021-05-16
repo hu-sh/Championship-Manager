@@ -21,7 +21,7 @@ import javax.swing.table.DefaultTableCellRenderer;
 /**
  * Classe per mostrare le varie partite, divise per giornate, del campionato
  * 
- * @author Davide Petillo, Cristian Pratesi
+ * @author Davide Petillo
  */
 public class PartitePanel extends BasePanel implements ActionListener, MouseListener{
     
