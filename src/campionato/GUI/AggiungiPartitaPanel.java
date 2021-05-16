@@ -24,7 +24,7 @@ import javax.swing.JTextField;
 
 /**
  * Classe che si occupa di creare un JPanel per l'aggiunta di una partita.
- * @author hush
+ * @author Davide Petillo
  */
 public class AggiungiPartitaPanel extends BasePanel implements KeyListener, ActionListener{
     
