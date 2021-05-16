@@ -9,7 +9,7 @@ import java.util.Comparator;
 /**
  * Classe che si occupa di gestire il campionato.
  * 
- * @author Davide Petillo, Cristian Pratesi
+ * @author Davide Petillo
  */
 public class Campionato {
     private ArrayList<Squadra> classifica;
