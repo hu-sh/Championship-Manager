@@ -11,7 +11,7 @@ import java.util.ArrayList;
 /**
  * Classe che si occupa di salvare le partite su file e leggerle.
  * 
- * @author Davide Petillo, Cristian Pratesi
+ * @author Davide Petillo
  */
 class GestoreFile {
     private String nome;
