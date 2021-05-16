@@ -3,7 +3,7 @@ package campionato;
 /**
  * Classe rappresentativa di una squadra.
  * 
- * @author Davide Petillo, Cristian Pratesi
+ * @author Davide Petillo
  */
 public class Squadra {
     private String nome;
